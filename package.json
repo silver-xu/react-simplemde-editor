@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "easymde": "^2.5.1",
-    "@types/codemirror": "^0.0.65"
+    "@types/codemirror": "^0.0.82"
   },
   "peerDependencies": {
     "react": ">=15",
@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/node": "^10.12.18",
     "@types/react": "^16.7.21",
-    "@types/codemirror": "^0.0.65",
+    "@types/codemirror": "^0.0.82",
     "@babel/cli": "^7.2.3",
     "@babel/preset-typescript": "^7.1.0",
     "@babel/runtime": "^7.3.1",
